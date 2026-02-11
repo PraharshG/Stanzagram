@@ -25,7 +25,7 @@ This repository contains two interconnected Python scripts:
 ## Setup Instructions
 
 ### Prerequisites
-- Raspberry Pi with a connected camera module.
+- A raspberry Pi with a connected camera module.
 - Python 3 installed on both devices.
 - Required libraries installed:
   - **On Raspberry Pi (`image_cap.py`):**
